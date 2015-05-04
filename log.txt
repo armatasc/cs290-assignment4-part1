@@ -1,0 +1,23 @@
+Start: 	Thursday, 30 April 2015 13:30:00 -0800
+End:	Thursday, 30 April 2015 15:30:00 -0800
+Tasks:	I began the reading during this 2 hour block. Most PHP, HTML, and SQL material is relatable to projects I have completed in the past.
+
+Start: 	Thursday, 30 April 2015 16:00:00 -0800
+End:	Thursday, 30 April 2015 17:00:00 -0800
+Tasks:	During this period, I started the basic formatting for all of my necessary files and completed a few more reading sections.
+
+Start: 	Friday, 1 May 2015 14:00:00 -0800
+End:	Friday, 1 May 2015 16:00:00 -0800
+Tasks:	I completed the reading and video lectures as well as planned out the assignment based on the requirements.
+
+Start: 	Saturday, 2 May 2015 14:32:00 -0800
+End:	Saturday, 2 May 2015 16:45:00 -0800
+Tasks:	I completed the multtable.php file with fully working error check conditions and correct product display.
+
+Start: 	Sunday, 3 May 2015 16:31:00 -0800
+End:	Sunday, 3 May 2015 18:28:00 -0800
+Tasks:  I completed (to the best of my ability) the loopback.php file, which can accept either a GET or POST request.
+
+Start: 	Sunday, 3 May 2015 18:40:00 -0800
+End:	Sunday, 3 May 2015 21:20:00 -0800
+Tasks:  I completed the login/content1/content2.php files.
